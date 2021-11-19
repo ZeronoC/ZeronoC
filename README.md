@@ -10,5 +10,5 @@
 
 ### Visitor 
 <p align="center">
-[![Visitor](https://komarev.com/ghpvc/?username=ZeronoC&color=blue)
+[![Visitor](https://komarev.com/ghpvc/?username=ZeronoC&color=blue)]
 </p>
