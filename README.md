@@ -9,6 +9,12 @@
 - ⚡ Fun fact: I'M Single :(
 
 ------
+### Statistik
+
+<p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api?username=ZeronoC&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeronoC&theme=radical&layout=compact"></a></p> 
+
+------
 ### Visitor 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ZeronoC&color=blue&style=flat-square&label=Pengunjung"><img title="Watching" src="https://komarev.com/ghpvc/?username=ZeronoC&color=blue&style=flat-square&label=Pengunjung"></a>
