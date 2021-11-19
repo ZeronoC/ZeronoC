@@ -8,6 +8,7 @@
 - 💬 Ask me about my bio?...
 - ⚡ Fun fact: I'M Single :(
 
+------
 ### Visitor 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ZeronoC&color=blue&style=flat-square&label=Pengunjung"><img title="Watching" src="https://komarev.com/ghpvc/?username=ZeronoC&color=blue&style=flat-square&label=Pengunjung"></a>
